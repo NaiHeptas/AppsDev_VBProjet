@@ -1,0 +1,12 @@
+D:\my project\Mainform\Mainform\bin\Debug\Mainform.exe.config
+D:\my project\Mainform\Mainform\bin\Debug\Mainform.exe
+D:\my project\Mainform\Mainform\bin\Debug\Mainform.pdb
+D:\my project\Mainform\Mainform\bin\Debug\Mainform.xml
+D:\my project\Mainform\Mainform\obj\Debug\Mainform.vbprojResolveAssemblyReference.cache
+D:\my project\Mainform\Mainform\obj\Debug\Mainform.Form1.resources
+D:\my project\Mainform\Mainform\obj\Debug\Mainform.Resources.resources
+D:\my project\Mainform\Mainform\obj\Debug\Mainform.vbproj.GenerateResource.Cache
+D:\my project\Mainform\Mainform\obj\Debug\Mainform.exe
+D:\my project\Mainform\Mainform\obj\Debug\Mainform.xml
+D:\my project\Mainform\Mainform\obj\Debug\Mainform.pdb
+D:\my project\Mainform\Mainform\obj\Debug\Mainform.Form2.resources
